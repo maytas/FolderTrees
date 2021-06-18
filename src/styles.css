@@ -1,0 +1,13 @@
+.app {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.input {
+  width: 50%;
+  margin: 5px 0;
+}
+
+.listHeader {
+  cursor: pointer;
+}
